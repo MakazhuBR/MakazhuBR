@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MakazhuBR
-- 👀 I’m interested in learning more about web develeopment, data structures, and algorithms.
-- 🌱 I’m currently learning backend development.
-- 💞️ I’m looking to collaborate on web design. 
+- 👀 I’m a sophomore at the University of the South, Sewanee.
+- 💞️ Computer Science and Math major. 
 - 📫 How to reach me makazbr0@sewanee.edu
 
 <!---
